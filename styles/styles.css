@@ -1,7 +1,10 @@
 h{
-    color: red;
+    color: yellow;
 }
 
 p{
     color: blue;
+}
+table{
+    background-color: lightblue;
 }
